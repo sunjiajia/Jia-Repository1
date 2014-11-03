@@ -1,7 +1,7 @@
 Jia-Repository1
 ===============
 
-The first Repository
+The first one of Repository
 
 Try to add the readme file to the repository
 
